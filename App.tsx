@@ -7,7 +7,7 @@ import Game from './src/components/game';
 export default function App() {
   return (
     <SafeAreaProvider>
-      <GestureHandlerRootView>
+      <GestureHandlerRootView style={{ flex: 1 }}>
         <StatusBar style='light'/>
         <Game />
       </GestureHandlerRootView>
