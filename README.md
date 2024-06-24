@@ -13,4 +13,4 @@ Desenvolvido usando REACT-NATIVE
 
 Conteudo aprendido através do YouTube.
 
-- [@Luis Reis](https://github.com/luisreiskeys)
+- [@Luis Reis](https://www.youtube.com/c/Lu%C3%ADsReisDev)
