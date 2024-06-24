@@ -1,4 +1,4 @@
-## Gerente de participantes
+## Jogo da cobrinha
 
 O clássico jogo da cobrinha (snake) para dispositivos móveis.
 
